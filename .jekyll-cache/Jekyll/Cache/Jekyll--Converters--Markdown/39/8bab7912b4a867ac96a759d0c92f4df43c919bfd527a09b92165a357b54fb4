@@ -1,0 +1,240 @@
+I"�<p>This schedule maps out what we are covering in class each week and what work we are starting that day. It is very subject to change as we go along in class.</p>
+
+<p>If you want to know what is due for next class, <a href="/due">check here</a>.</p>
+
+<h3 id="week-1">Week 1</h3>
+<p>In our first week we will review the syllabus, get our programs set up, and go through some Figma tips.</p>
+
+<h4 id="lessons">Lessons</h4>
+<ul>
+  <li>Overview</li>
+  <li>Figma Basics</li>
+</ul>
+
+<h4 id="starting">Starting</h4>
+<ul>
+  <li>E1: <a href="/exercises/e1">A Little Backgroud</a></li>
+  <li>P1: <a href="/projects/p1">Tell a Story</a></li>
+</ul>
+
+<h4 id="resources">Resources</h4>
+<ul>
+  <li><em>Figma:</em> <a href="https://help.figma.com/hc/en-us/categories/360002051613-Get-started">Figma Learn</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-2">Week 2</h3>
+<p>The ability to create an interactive prototype of a website is an incredibly powerful tool for a designer. It is also important for designers to understand accessibility as it relates to the web. We will cover both these topics this week.</p>
+
+<h4 id="lessons-1">Lessons</h4>
+<ul>
+  <li>Plugins and Prototyping in Figma</li>
+  <li>Accessibility in Web Design</li>
+</ul>
+
+<h4 id="starting-1">Starting</h4>
+<ul>
+  <li>E2: <a href="/projects#e2">Linking in Figma</a></li>
+</ul>
+
+<h4 id="digital-references">Digital References</h4>
+<ul>
+  <li><em>Figma:</em> <a href="https://www.figma.com/resource-library/prototyping/">Prototyping</a></li>
+  <li><em>Figma:</em> <a href="https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-components-in-Figma">Guide to Components</a></li>
+  <li><a href="https://www.w3.org/WAI/">W3C Web Accessibility Initiative</a></li>
+  <li><a href="https://www.digitala11y.com/wai-aria-1-1-cheat-sheet/">Wai-Aria 1.1 Cheat Sheet</a></li>
+  <li><a href="https://wave.webaim.org/">WAVE Web Accessibility Evaluation Tool</a></li>
+  <li><a href="https://www.w3.org/WAI/test-evaluate/preliminary/">Easy Checks - A First Review of Web Accessiblity</a></li>
+  <li><a href="https://validator.w3.org/">W3C Validator</a></li>
+  <li><a href="https://coolors.co/contrast-checker/bac7a8-acc8e5">Contrast Checker</a></li>
+  <li><a href="https://hemingwayapp.com/">Hemingway App</a></li>
+  <li><a href="https://www.google.com/url?q=https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/&amp;sa=D&amp;source=editors&amp;ust=1643665807569575&amp;usg=AOvVaw3mfGBmNnMvu2hKWU8wfbsg">Dos and Don’ts on designing for accessibility</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-3">Week 3</h3>
+<p>We will continue exploring the possibilities of prototyping in Figma.</p>
+
+<h4 id="lessons-2">Lessons</h4>
+<ul>
+  <li>Prototyping in Figma (continued)</li>
+</ul>
+
+<h4 id="starting-2">Starting</h4>
+<ul>
+  <li>E3: <a href="/projects#e3">Hover and Animations in Figma</a></li>
+</ul>
+
+<h4 id="digital-references-1">Digital References</h4>
+<ul>
+  <li><em>Figma:</em> <a href="https://www.figma.com/resource-library/prototyping/">Prototyping</a></li>
+  <li><em>Youtube:</em> <a href="https://www.youtube.com/watch?v=dr6C_LK1U_Y">Create a Functional Hamburger Menu Navigation in Figma</a></li>
+  <li><em>Youtube:</em> <a href="https://www.youtube.com/watch?v=1Z1FZ4HwQuE">Hamburger Menu Items as Anchors</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-4">Week 4</h3>
+<p>We will talk about responsive design.</p>
+
+<h4 id="lessons-3">Lessons</h4>
+<ul>
+  <li>Responsive design in Figma</li>
+</ul>
+
+<h4 id="starting-3">Starting</h4>
+<ul>
+  <li>E4: <a href="/projects#e4">Landing Page</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-5">Week 5</h3>
+<p>We are talking about web typography.</p>
+
+<h4 id="lessons-4">Lessons</h4>
+<ul>
+  <li>Web Typography</li>
+</ul>
+
+<h4 id="starting-4">Starting</h4>
+<ul>
+  <li>E5: <a href="/projects#e5">Make it Responsive</a></li>
+</ul>
+
+<h4 id="digital-references-2">Digital References</h4>
+<ul>
+  <li><a href="https://cantunsee.space/">Can’t Unsee</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-6">Week 6</h3>
+<p>A look at the design of web forms.</p>
+
+<h4 id="lessons-5">Lessons</h4>
+<ul>
+  <li>Forms</li>
+</ul>
+
+<h4 id="starting-5">Starting</h4>
+<ul>
+  <li>E6: <a href="/projects#e6">Form Redesign</a></li>
+  <li>P2: <a href="/projects/p2">For Sale</a></li>
+</ul>
+
+<h4 id="digital-references-3">Digital References</h4>
+<ul>
+  <li><em>Interneting is Hard:</em> <a href="https://internetingishard.netlify.app/html-and-css/forms/">Forms</a></li>
+  <li><a href="https://userinyerface.com/">User Inyerface</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-7">Week 7</h3>
+<p>Wireframes!</p>
+
+<h4 id="starting-6">Starting</h4>
+<ul>
+  <li>E7: <a href="/projects#e7">Reverse Wireframe</a></li>
+</ul>
+
+<h4 id="digital-references-4">Digital References</h4>
+<ul>
+  <li><em>usability.gov:</em> <a href="https://www.usability.gov/how-to-and-tools/methods/wireframing.html">Wireframing</a></li>
+  <li><em>Balsamiq:</em> <a href="https://balsamiq.com/learn/articles/what-are-wireframes/">What are Wireframes?</a></li>
+  <li><em>Figma:</em> <a href="https://www.figma.com/blog/how-to-wireframe/">How to Wireframe</a></li>
+  <li><em>Adobe:</em> <a href="https://xd.adobe.com/ideas/process/wireframing/wireframe-design-definition/">Everything You Need to Know About Wireframe Design and Prototypes</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-8">Week 8</h3>
+<p>Spring Break! No class!</p>
+
+<hr />
+<h3 id="week-9">Week 9</h3>
+<p>People being able to use the sites we design is an important consideration while designing. This week we will start our conversation on usability for the web.</p>
+
+<h4 id="lessons-6">Lessons</h4>
+<ul>
+  <li>7.1: Usability 1</li>
+</ul>
+
+<h4 id="starting-7">Starting</h4>
+<ul>
+  <li>E8: <a href="/projects#e8">Not So Usable</a></li>
+</ul>
+
+<h4 id="digital-references-5">Digital References</h4>
+<ul>
+  <li><em>Steve Schoger:</em> <a href="https://twitter.com/i/events/880688233641848832">Little UI Details</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-10">Week 10</h3>
+<p>A continuation of our discussion on usability.</p>
+
+<h4 id="lessons-7">Lessons</h4>
+<ul>
+  <li>8.1: Usability 2</li>
+</ul>
+
+<h4 id="starting-8">Starting</h4>
+<ul>
+  <li>E9: <a href="/projects#e9">5 Usability Heuristics</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-11">Week 11</h3>
+<p>CSS Drawing!</p>
+
+<h4 id="starting-9">Starting</h4>
+<ul>
+  <li>E10: <a href="/projects#e8">CSS Drawing</a></li>
+</ul>
+
+<h4 id="digital-references-6">Digital References</h4>
+<ul>
+  <li><em>WDN Web Docs:</em> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations">Using CSS Animations</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-12">Week 12</h3>
+<p>In class group meetings to review Project 2.</p>
+
+<hr />
+
+<h3 id="week-13">Week 13</h3>
+<p>In class workshop and critiques.</p>
+
+<h4 id="lessons-8">Lessons</h4>
+<ul>
+  <li>Design Thinking Process</li>
+</ul>
+
+<h4 id="starting-10">Starting</h4>
+<ul>
+  <li>E11: <a href="/projects#e11">Design a Hat</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-14">Week 14</h3>
+<p>Continuing our in class workshop and critiques.</p>
+
+<hr />
+
+<h3 id="week-15">Week 15</h3>
+<p>Early due date and review of work.</p>
+
+<hr />
+
+<h3 id="week-16">Week 16</h3>
+<p>Everything due.</p>
+:ET

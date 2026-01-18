@@ -1,0 +1,16 @@
+{% assign curDate = site.time | date: '%s' %}
+{% if site.categories.projects == null %}
+  <p>The first project will be posted on the first day of class.</p>
+  {% else %}
+  {% for post in site.categories.projects reversed %}
+    {% assign postStartDate = post.date | date: '%s' %}
+    {% if postStartDate <= curDate %}
+    <article class="single" id=" {{post.slug}} ">
+      <h4> {{ post.subhead }}: {{ post.title }} </h4>
+      <p class="description"> {{ post.excerpt | strip_html }} </p>
+      <p><a href="{{ post.url | relative_url }}">Full Project Description</a></p>
+      <hr>
+    </article>
+    {% endif %}
+  {% endfor %}
+{% endif %}

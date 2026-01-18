@@ -2,10 +2,6 @@
 layout: interior
 title: Reference
 ---
-### Class Links
-* [Github Repository](https://github.com/mmcdermott18/avt415-fa25)
-* [Live Repository](https://mmcdermott18.github.io/avt415-fa25/)
-
 ### Books
 * [Learning Web Design](https://www.learningwebdesign.com/)
 * [A Book Apart](https://abookapart.com/)
@@ -20,10 +16,6 @@ title: Reference
 * [A List Apart](https://alistapart.com/)
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/)
 
-### Software, Coding
-* [Sublime Text](https://www.sublimetext.com/)
-* [Brackets](http://brackets.io/)
-
 ### Software, Design
 * [Figma](https://www.figma.com/)
 * [Adobe XD](https://www.adobe.com/products/xd.html)
@@ -32,5 +24,4 @@ title: Reference
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 
 ### Software, Other
-* [GitHub Desktop](https://desktop.github.com/)
 * [Zoom](https://zoom.us/)

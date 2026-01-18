@@ -1,0 +1,23 @@
+I"¿<h3 id="description">Description</h3>
+<p>Design and prototype a form that would help identify a typeface. The form should be at least 5 fields Links to an external site. and include:</p>
+
+<ul>
+  <li>Title of form</li>
+  <li>Brief description or instructions of form</li>
+  <li>At least one field that uses radio buttons or check boxes</li>
+  <li>At least one field that is text based</li>
+  <li>At least one field that uses a range selector</li>
+  <li>Submit button</li>
+</ul>
+
+<p>The form should be designed in Figma at 1440px wide. It can be on a single page or split up across multiple pages. Interactive features should be designed and prototyped.</p>
+
+<h3 id="technical-requirements">Technical Requirements</h3>
+<ul>
+  <li>1440px wide by however tall</li>
+  <li>All the same information is collected</li>
+  <li>States for form elements are designed and some are prototyped</li>
+</ul>
+
+<p><span class="due">Due Wednesday, March 04 by 4:30pm ET</span></p>
+:ET

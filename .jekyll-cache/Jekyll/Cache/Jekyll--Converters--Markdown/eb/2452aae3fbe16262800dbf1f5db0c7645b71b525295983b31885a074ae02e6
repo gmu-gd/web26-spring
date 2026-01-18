@@ -1,0 +1,20 @@
+I"2<h3 id="description">Description</h3>
+<p>Using our simpler definition of usability — How easy is it for <span class="command">someone</span> to use <span class="command">something</span>? — find something in your daily life that you would consider not so usable. There are examples at the end of the slides (linked on Canvas) we talked about in class (which you can’t use) but can give you an idea of what this exercise is looking for.</p>
+
+<p>Create a single frame in Figma that is 1440px by 768px and contains the following:</p>
+
+<ul>
+  <li>An image showing your not so usable thing</li>
+  <li>The above definition filled out for your not so usable thing (for example, How easy is it for a person to use a door?)</li>
+  <li>Some amount of text describing the not so usable thing and why it is not so usable.</li>
+</ul>
+
+<h3 id="technical-requirements">Technical Requirements</h3>
+<ul>
+  <li>1440px by 796px</li>
+  <li>Uses a grid (columns)</li>
+  <li>All the above content is included</li>
+</ul>
+
+<p><span class="due">Due Wednesday, March 25 by 4:30pm ET</span></p>
+:ET

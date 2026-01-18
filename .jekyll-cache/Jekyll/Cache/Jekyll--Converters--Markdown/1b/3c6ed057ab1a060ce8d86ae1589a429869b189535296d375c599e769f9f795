@@ -1,0 +1,12 @@
+I"2<h3 id="description">Description</h3>
+<p>Link the frames of your e1 file together by adding some kind of navigation. How you link them together is up to you but the minimum is 1 should go to 2, 2 should go to 3, 3 should go to 4, 4 should go to the new 5th page and 5 should go back to 1. This is also a chance to update the design if you need to either to improve it or to adjust for the navigation elements.</p>
+
+<h3 id="technical-requirements">Technical Requirements</h3>
+<ul>
+  <li>Add an additional frame as number 5 that tells the typeface(s) and foundry(s) that designed it</li>
+  <li>Each frame from e1 linked to the next, with the last going back to the first</li>
+  <li>Link to a new working prototype on your class website</li>
+</ul>
+
+<p><span class="due">Due Wednesday, February 04 by 4:30pm ET</span></p>
+:ET

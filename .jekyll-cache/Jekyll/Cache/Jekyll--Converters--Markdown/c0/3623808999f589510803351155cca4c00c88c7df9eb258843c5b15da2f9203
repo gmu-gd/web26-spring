@@ -1,0 +1,18 @@
+I""<h3 id="description">Description</h3>
+<p>Reverse engineer two wireframes for the <a href="https://americanart.si.edu/">American Art Museum</a>. The first wireframe should be at a desktop width. If your screen is wide enough try at 1440px but if it is smaller just get it as wide as it can be. The second wireframe should be at a mobile width. Use your phone to view the page in a portrait format. One of the wireframes will be done digitally and one will be done by hand. It is up to you which is which. The hand done wireframe needs to be done nicely and brought back in to your Figma file. The digital wireframe should use a grid that is close to the same grid used on the site.</p>
+
+<p>Both wireframes should be in black and white (grey is acceptable but typically not necessary) and contain no text or images. They both will also be the full height of the website and diagram out all the information on the page. This should be done entirely using shapes and lines. Come up with representations for various levels of type and how you will represent images, graphics, videos, etc.</p>
+
+<p><a href="https://www.webfx.com/tools/whats-my-browser-size/">What’s my browser size?</a></p>
+
+<h3 id="technical-requirements">Technical Requirements</h3>
+<ul>
+  <li>One desktop wireframe (1440px or so)</li>
+  <li>One mobile wireframe (portrait mobile size)</li>
+  <li>No text or images in wireframe</li>
+  <li>Done in black and white</li>
+  <li>One digital wireframe and one hand done wireframe</li>
+</ul>
+
+<p><span class="due">Due Wednesday, March 11 by 4:30pm ET</span></p>
+:ET

@@ -1,0 +1,4 @@
+---
+layout: exercises
+title: Exercises
+---

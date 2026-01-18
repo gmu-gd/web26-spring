@@ -1,0 +1,24 @@
+I"�<h3 id="description">Description</h3>
+<p>Create a landing page for a category from this year’s GRAMMY Awards <a href="https://www.grammy.com/awards/67th-annual-grammy-awards-2024">List Here</a>. The page will be 1440px by 796px which means it will not scroll. The page should use a grid and any animation or interaction you want to include should be prototyped. There are multiple levels of typographic information here so focus on the hierarchy.</p>
+
+<p>The contents of the page will be:</p>
+<ul>
+  <li>The 67th Grammy Awards</li>
+  <li>Crypto.com Arena in Los Angeles</li>
+  <li>Sunday, February 2, 202</li>
+  <li>Category name</li>
+  <li>Winner and nominees from the category including all the information listed in the category on the site</li>
+  <li>One button that says something like “other categories”</li>
+</ul>
+
+<h3 id="technical-requirements">Technical Requirements</h3>
+<ul>
+  <li>1440px by 796px</li>
+  <li>Uses a grid (columns)</li>
+  <li>All content in above list included</li>
+  <li>Does not use any branding elements (logos, type, colors, graphics) from the official GRAMMY website</li>
+  <li>Hover states for button</li>
+</ul>
+
+<p><span class="due">Due Wednesday, February 18 by 4:30pm ET</span></p>
+:ET

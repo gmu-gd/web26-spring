@@ -1,0 +1,15 @@
+{% assign curDate = site.time | date: '%s' %}
+{% if site.categories.exercises == null %}
+  <p>The first exercise will be posted on the first day of class.</p>
+  {% else %}
+  <ul class="single">
+  {% for post in site.categories.exercises reversed %}
+    {% assign postStartDate = post.date | date: '%s' %}
+    {% if postStartDate <= curDate %}
+    <li id="{{post.slug}}">
+      <a href="{{ post.url | relative_url }}"><span class="bold-caps">{{ post.subhead }}:</span> {{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endif %}

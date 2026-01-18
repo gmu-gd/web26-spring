@@ -16,9 +16,8 @@
     {% include header.html %}
     <main>
       <article class="single">
-        <h2 class="event"> {{ page.title }} </h2>
+        <h2 class="event"> {{ page.subhead }}: {{ page.title }} </h2>
         {{ content }}
-        <a href="{{ "/projects" | relative_url}}" class="link-small">Back to Projects</a>
       </article>
     </main>
     <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>

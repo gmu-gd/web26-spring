@@ -1,0 +1,29 @@
+I"x<h3 id="description">Description</h3>
+
+<h4 id="part-1-find-examples-with-your-group">Part 1: Find examples with your group</h4>
+
+<p>Find examples of 5 of the 10 Usability Heuristics using the <a href="https://mmcdermott18.github.io/avt415-fa25/e10/index.html">Exercise 10 Generator</a>. The generator will randomly assign 5 of the 10 heuristics and you and your group will find web based examples for each one you were assigned. For each heuristic, find an example from a website and take a screenshot of it. The screenshots can be cropped in but they need to include any supporting elements to help visually show the heuristic.</p>
+
+<h4 id="part-2-individually-design-your-presentation">Part 2: Individually design your presentation</h4>
+
+<p>Once you have an example for each of your heuristics, create five frames in Figma that are 1440px by 768px with each containing the following:</p>
+
+<ul>
+  <li>A screenshot showing the example of one of your heuristics.</li>
+  <li>Include a link to the website where the screenshot is from.</li>
+  <li>The title and definition of the heuristic from the slides (find a link to the slides on Canvas).</li>
+  <li>A brief explanation explaining why you are using this screenshot as an example.</li>
+</ul>
+
+<p>To finish, link the frames together and submit the link to your prototype on Canvas and add it to your website.</p>
+
+<h3 id="technical-requirements">Technical Requirements</h3>
+<ul>
+  <li>5 frames at 1440px by 796px</li>
+  <li>Uses a grid (columns)</li>
+  <li>All the above content is included</li>
+  <li>Frames linked together</li>
+</ul>
+
+<p><span class="due">Due Wednesday, April 01 by 4:30pm ET</span></p>
+:ET
