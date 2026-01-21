@@ -85,6 +85,8 @@ A note—Time management is an important skill to master and should be worked on
 
 The [schedule]({{ site.baseurl }}/schedule/) on this site is outline of what we will be covering this semester. It is subject to additions, subtractions, and shifts.
 
-
 ### Discussion of Work
 You will need to take an active role in both the presentation and discussion of your work. We will review projects in a variety of ways and you are expected to be able to talk and write about your own work and give feedback to your peers about their work. The ability to discuss your work and other student’s work is a very important part of your education at Mason. Use this class to improve on those skills.
+
+### Campus Closure Policy
+In the event that campus is closed due to weather or other emergency, this class will meet on Zoom to cover the material able to be covered virtually unless otherwise notified. If class moves to a virtual session, normal attendance and late arrival policies apply.
