@@ -15,6 +15,8 @@ title: Reference
 * [Interneting is Hard](https://www.internetingishard.com/)
 * [A List Apart](https://alistapart.com/)
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/)
+* [Figma Learn](https://help.figma.com/hc/en-us)
+* [Figma Education](https://www.figma.com/community/education?resource_type=files&editor_type=figma&price=all&sort_by=all_time)
 
 ### Software, Design
 * [Figma](https://www.figma.com/)
