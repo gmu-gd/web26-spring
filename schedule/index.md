@@ -72,6 +72,9 @@ We will talk about responsive design.
 #### Starting
 * E4: [Landing Page]({{ site.baseurl }}/projects#e4)
 
+#### Digital References
+* _Figma:_ [Responsive Design](https://www.figma.com/resource-library/responsive-website-design/)
+
 ---
 
 ### Week 5
