@@ -1,2 +1,3 @@
 permalink: /:categories/:title/
 future: false
+timezone: America/New_York
